@@ -1,0 +1,8 @@
+.time-and-logo-container {
+  display: flex;
+}
+
+.history-card-container {
+  display: flex;
+  justify-content: space-between;
+}
